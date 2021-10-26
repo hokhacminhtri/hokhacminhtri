@@ -7,7 +7,7 @@
 - 🏫I'm currently studying Information System at the VNU-HCMUS.
 - 💻I'm learning about Front-end technologies.
 - 🎯My Goals: Learning to become a Front-end Developer.
-- ⚡Fun fact: Friendly, I enjoy playing sport & guitar.
+- ⚡Fun facts: Friendly, I enjoy playing sports & the guitar.
 
 <br/>
 
