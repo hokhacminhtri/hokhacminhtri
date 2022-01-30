@@ -44,11 +44,11 @@
 <br/>
 
 <div align="center">
-<img alt="minhtri2404 Github Stats" src="https://github-readme-stats.vercel.app/api/?username=minhtri2404&langs_count=8"/>
+<img alt="minhtri2404 Github Stats" src="https://github-readme-stats.vercel.app/api/?username=minhtri2404&include_all_commits=true&count_private=true&langs_count=12&show_icons=true&theme=cobalt"/>
 
 <br/>
 
-<img alt="minhtri2404 Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhtri2404&langs_count=8"/>
+<img alt="minhtri2404 Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhtri2404&langs_count=12&theme=dracula"/>
 </div>
 
 [facebook]: https://www.facebook.com/minhtri244/
