@@ -13,9 +13,9 @@
 
 ## Contact me
 
-[<img align="left" alt="minhtri2404 | Facebook" width="32px" src="https://cdn-icons-png.flaticon.com/512/1384/1384053.png" />][facebook]
-[<img align="left" alt="minhtri2404 | LinkedIn" width="32px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
-[<img align="left" alt="minhtri2404 | Instagram" width="32px" src="https://cdn-icons-png.flaticon.com/512/2504/2504918.png" />][instagram]
+[<img align="left" alt="hokhacminhtri | Facebook" width="32px" src="https://cdn-icons-png.flaticon.com/512/1384/1384053.png" />][facebook]
+[<img align="left" alt="hokhacminhtri | LinkedIn" width="32px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+[<img align="left" alt="hokhacminhtri | Instagram" width="32px" src="https://cdn-icons-png.flaticon.com/512/2504/2504918.png" />][instagram]
 
 <br/>
 <br/>
@@ -35,23 +35,23 @@
 
 ## My learning projects
 
-- Covid Management Project (NodeJS, Express MVC): https://github.com/minhtri2404/covid-project
-- Online Market – Smarket Project (.NET Core; Java Spring Boot Web API; ExpressJS, Pug): https://github.com/minhtri2404/Smarket
-- Vaccine Management Project (ReactJS; ExpressJS; MySQL, MongoDB, Redis, Elasticsearch): https://github.com/minhtri2404/vaccines-project
-- MetaMarket Project - Online market web app (Distributed Application – Microservices System): https://github.com/minhtri2404/metamarket
+- Covid Management Project (NodeJS, Express MVC): https://github.com/hokhacminhtri/covid-project
+- Online Market – Smarket Project (.NET Core; Java Spring Boot Web API; ExpressJS, Pug): https://github.com/hokhacminhtri/Smarket
+- Vaccine Management Project (ReactJS; ExpressJS; MySQL, MongoDB, Redis, Elasticsearch): https://github.com/hokhacminhtri/vaccines-project
+- MetaMarket Project - Online market web app (Distributed Application – Microservices System): https://github.com/hokhacminhtri/metamarket
 
 <br/>
 
 <div align="center">
-<img alt="minhtri2404 Github Stats" src="https://github-readme-stats.vercel.app/api/?username=minhtri2404&include_all_commits=true&count_private=true&langs_count=12&show_icons=true&theme=cobalt"/>
+<img alt="hokhacminhtri Github Stats" src="https://github-readme-stats.vercel.app/api/?username=hokhacminhtri&include_all_commits=true&count_private=true&langs_count=12&show_icons=true&theme=cobalt"/>
 
 <br/>
 
-<img alt="minhtri2404 Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhtri2404&langs_count=12&theme=dracula"/>
+<img alt="hokhacminhtri Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hokhacminhtri&langs_count=12&theme=dracula"/>
 </div>
 
 [facebook]: https://www.facebook.com/minhtri244/
-[instagram]: https://www.instagram.com/_m_tri_/
+[instagram]: https://www.instagram.com/hokhacminhtri/
 [linkedin]: https://www.linkedin.com/in/hokhacminhtri/
 [html]: #
 [css]: #
