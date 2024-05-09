@@ -4,9 +4,9 @@
 
 ## I'm a Web Developer and Student
 
-- 🏫I'm currently studying Information System at the VNU-HCMUS.
-- 💻I'm learning about Back-end technologies.
-- 🎯My Goals: Learning to become a Back-end Developer.
+- 🏫I graduated in Information System at the VNU-HCMUS.
+- 💻I'm now a Software Engineer at TMA Solutions.
+- 🎯My Goals: Learning to become a Full-stack developer.
 - ⚡Fun facts: Friendly, I enjoy playing sports & the guitar.
 
 <br/>
