@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://i.imgur.com/faeX3oa.gif" />
 
-## I'm a Web Developer and Student
+## I'm a Software Engineer
 
 - 🏫I graduated in Information System at the VNU-HCMUS.
 - 💻I'm now a Software Engineer at TMA Solutions.
