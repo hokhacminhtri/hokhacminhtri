@@ -13,22 +13,10 @@
 
 ## Contact me
 
-[<img align="left" alt="hokhacminhtri | Facebook" width="32px" src="https://cdn-icons-png.flaticon.com/512/1384/1384053.png" />][facebook]
+[<img align="left" alt="hokhacminhtri | Gmail" width="32px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />][gmail]
 [<img align="left" alt="hokhacminhtri | LinkedIn" width="32px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+[<img align="left" alt="hokhacminhtri | Facebook" width="32px" src="https://cdn-icons-png.flaticon.com/512/1384/1384053.png" />][facebook]
 [<img align="left" alt="hokhacminhtri | Instagram" width="32px" src="https://cdn-icons-png.flaticon.com/512/2504/2504918.png" />][instagram]
-
-<br/>
-<br/>
-
-## Programming languages and Tools
-
-[<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
-[<img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
-[<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
-[<img align="left" alt="Express" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />][express]
-[<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
-[<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/git/git.png" />][git]
-[<img align="left" alt="Github" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 
 <br/>
 <br/>
@@ -50,13 +38,7 @@
 <img alt="hokhacminhtri Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hokhacminhtri&langs_count=12&theme=dracula"/>
 </div>
 
+[gmail]: hokhacminhtri@gmail.com
+[linkedin]: https://www.linkedin.com/in/hokhacminhtri/
 [facebook]: https://www.facebook.com/minhtri244/
 [instagram]: https://www.instagram.com/hokhacminhtri/
-[linkedin]: https://www.linkedin.com/in/hokhacminhtri/
-[html]: #
-[css]: #
-[js]: #
-[express]: #
-[vscode]: #
-[git]: #
-[github]: #
