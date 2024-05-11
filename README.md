@@ -13,7 +13,6 @@
 
 ## Contact me
 
-[<img align="left" alt="hokhacminhtri | Gmail" width="32px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />][gmail]
 [<img align="left" alt="hokhacminhtri | LinkedIn" width="32px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 [<img align="left" alt="hokhacminhtri | Facebook" width="32px" src="https://cdn-icons-png.flaticon.com/512/1384/1384053.png" />][facebook]
 [<img align="left" alt="hokhacminhtri | Instagram" width="32px" src="https://cdn-icons-png.flaticon.com/512/2504/2504918.png" />][instagram]
@@ -38,7 +37,6 @@
 <img alt="hokhacminhtri Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hokhacminhtri&langs_count=12&theme=dracula"/>
 </div>
 
-[gmail]: hokhacminhtri@gmail.com
 [linkedin]: https://www.linkedin.com/in/hokhacminhtri/
 [facebook]: https://www.facebook.com/minhtri244/
 [instagram]: https://www.instagram.com/hokhacminhtri/
