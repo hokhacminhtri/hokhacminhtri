@@ -6,7 +6,7 @@
 
 - 🎓 Graduated with a degree in Information Systems from VNU-HCMUS.
 - 💼 Currently employed as a Software Engineer at TMA Solutions.
-- 🎯My Goals: I’m dedicated to building robust and scalable software solutions. My expertise spans multiple domains, including modern web development, API design, and cloud computing. I thrive on solving complex problems and continually expanding my knowledge in the ever-evolving tech landscape.
+- 🎯 I’m dedicated to building robust and scalable software solutions. My expertise spans multiple domains, including modern web development, API design, and cloud computing. I thrive on solving complex problems and continually expanding my knowledge in the ever-evolving tech landscape.
 
 ## Contact me
 
