@@ -55,7 +55,7 @@
 ## ✨ GitHub Statistics
 
 <div align="center">
-<img alt="hokhacminhtri Github Stats" src="https://github-readme-stats.vercel.app/api/?username=hokhacminhtri&include_all_commits=true&count_private=true&show_icons=true&theme=cobalt"/>
+<img alt="hokhacminhtri GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hokhacminhtri&include_all_commits=true&count_private=true&show_icons=true&theme=cobalt"/>
 
 <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=hokhacminhtri&bg_color=193549&color=62B3FF&line=00FFFF&point=FFEA00&hide_border=true" />
 
